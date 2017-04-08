@@ -1,0 +1,8 @@
+��X<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:145;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2017-02-07 10:14:57";s:13:"post_date_gmt";s:19:"2017-02-07 12:14:57";s:12:"post_content";s:632:"Espaço para você falar do seu trabalho! Venda seu peixe e faça sua propaganda aqui!
+Mande release sobre seu projeto, empresa, atividade ou comércio local.
+
+Para enviar seu material, utilize imagens em alta resolução, assim você garante a qualidade e demonstra profissionalismo. Nossos padrões de imagem são 1050x350 para o banner no site e 950x950 para as redes sociais. Caso não tenha imagens nessas dimensões ou em alta resolução, a equipe BHOL irá produzir uma para o post!
+
+<em>Preencha o formulário ou por e-mail: contato@bhol.com.br</em>
+
+[contact-form-7 id="126" title="Formulário CPG Venda seu peixe"]";s:10:"post_title";s:15:"Venda seu peixe";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:15:"venda-seu-peixe";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-02-15 15:03:43";s:17:"post_modified_gmt";s:19:"2017-02-15 17:03:43";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:31:"http://bhol.com.br/?page_id=145";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

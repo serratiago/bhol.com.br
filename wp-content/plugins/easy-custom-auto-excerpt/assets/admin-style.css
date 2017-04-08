@@ -1,0 +1,50 @@
+/**
+ * Ace editor
+ */
+#ace-editor { 
+    width: 100%;
+    height:350px;
+    margin-left: auto;
+	padding-right: 10px;
+	font-size: 16px;
+}
+
+#ace_editor_value {
+	display: none;
+}
+
+h2 .nav-tab {
+	font-weight: 600;
+}
+
+.ordinary-select-2 .select2-container {
+	width: 300px;
+}
+
+#opt-location select,
+#opt-location input {
+	width: 300px;
+}
+
+.button.btn-upgrade:active,
+.button.btn-upgrade:focus,
+.button.btn-upgrade {
+	vertical-align: baseline !important;
+	background: #e14d43;
+    border-color: #d02c21;
+    color: #fff;
+    -webkit-box-shadow: inset 0 1px 0 #ec8b85,0 1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 1px 0 #ec8b85,0 1px 0 rgba(0,0,0,.15);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.button.btn-upgrade:hover {
+    background: #dd382d;
+    border-color: #ba281e;
+    color: #fff;
+    -webkit-box-shadow: inset 0 1px 0 #e8776f;
+    box-shadow: inset 0 1px 0 #e8776f;
+    font-weight: bold;
+    text-transform: uppercase;
+}

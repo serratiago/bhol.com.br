@@ -1,0 +1,75 @@
+[Sun, 19 Feb 2017 00:08:36 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58a8e204abc48] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_message=58a8e1fa85b28] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:08:37 +0000] [/wp-cron.php?doing_wp_cron=1487462917.5406739711761474609375] [http://bhol.com.br/wp-cron.php?doing_wp_cron=1487462917.5406739711761474609375] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:08:38 +0000] [/w3tc_rewrite_test235626886] [http://bhol.com.br/w3tc_rewrite_test235626886] start, can_cache: false
+[Sun, 19 Feb 2017 00:08:46 +0000] [/wp-admin/admin.php?page=w3tc_cdn] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_message=58a8e204abc48] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:08:47 +0000] [/w3tc_rewrite_test433483804] [http://bhol.com.br/w3tc_rewrite_test433483804] start, can_cache: false
+[Sun, 19 Feb 2017 00:09:11 +0000] [/wp-admin/admin.php?page=tonjoo_excerpt] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_cdn] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:13 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=tonjoo_excerpt] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:23 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [http://bhol.com.br/wp-admin/admin.php?page=tonjoo_excerpt] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:24 +0000] [/w3tc_rewrite_test1730179419] [http://bhol.com.br/w3tc_rewrite_test1730179419] start, can_cache: false
+[Sun, 19 Feb 2017 00:09:26 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=0b22bea833&w3tc_action=newrelic_widgetdata_basic] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:26 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=0b22bea833&w3tc_action=pagespeed_widgetdata] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:27 +0000] [/wp-admin/admin-ajax.php?action=w3tc_widget_latest_ajax&_wpnonce=0b22bea833] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:27 +0000] [/wp-admin/admin-ajax.php?action=w3tc_widget_latest_news_ajax&_wpnonce=0b22bea833] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:37 +0000] [/wp-admin/admin.php?page=w3tc_browsercache] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:09:38 +0000] [/w3tc_rewrite_test223846930] [http://bhol.com.br/w3tc_rewrite_test223846930] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:00 +0000] [/wp-admin/admin.php?page=w3tc_browsercache] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_browsercache] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:10:02 +0000] [/wp-admin/admin.php?page=w3tc_browsercache&w3tc_message=58a8e25a48a84] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_browsercache] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:10:04 +0000] [/w3tc_rewrite_test253381018] [http://bhol.com.br/w3tc_rewrite_test253381018] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:08 +0000] [/] [-] start, can_cache: true
+[Sun, 19 Feb 2017 00:10:08 +0000] [/] [-] no cache entry for bhol.com.br/_index.html
+[Sun, 19 Feb 2017 00:10:08 +0000] [/] [-] start, can_cache: true
+[Sun, 19 Feb 2017 00:10:08 +0000] [/] [-] no cache entry for bhol.com.br/_index.html
+[Sun, 19 Feb 2017 00:10:09 +0000] [/] [-] storing cached page: true original  true reason 
+[Sun, 19 Feb 2017 00:10:10 +0000] [/] [-] storing cached page: true original  true reason 
+[Sun, 19 Feb 2017 00:10:10 +0000] [/wp-content/cache/minify/e9828.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:10 +0000] [/wp-content/cache/minify/98d62.css?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:10 +0000] [/wp-content/cache/minify/762f6.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:10 +0000] [/wp-content/cache/minify/98d62.css?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:11 +0000] [/wp-content/cache/minify/a018d.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:11 +0000] [/wp-content/cache/minify/a018d.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:11 +0000] [/wp-content/cache/minify/1a1b8.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:11 +0000] [/wp-content/cache/minify/762f6.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:11 +0000] [/wp-content/cache/minify/d8557.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:11 +0000] [/wp-content/cache/minify/e9828.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/e9828.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/1a1b8.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/d8557.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/1a1b8.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/98d62.css?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/e9828.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:12 +0000] [/wp-content/cache/minify/a018d.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-content/cache/minify/1a1b8.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-content/cache/minify/d8557.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-content/cache/minify/98d62.css?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-content/cache/minify/762f6.js?x27502] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-content/cache/minify/a018d.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-cron.php?doing_wp_cron=1487463010.7918870449066162109375] [http://bhol.com.br/wp-cron.php?doing_wp_cron=1487463010.7918870449066162109375] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:10:13 +0000] [/wp-content/cache/minify/d8557.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:13 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463010026] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:14 +0000] [/wp-content/cache/minify/762f6.js?x27502] [http://bhol.com.br/] storing cached page - not a cached content
+[Sun, 19 Feb 2017 00:10:14 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463010026] [http://bhol.com.br/] storing cached page: false original false reason Requested URI contains query
+[Sun, 19 Feb 2017 00:10:14 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463010143] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:10:15 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463010143] [http://bhol.com.br/] storing cached page: false original false reason Requested URI contains query
+[Sun, 19 Feb 2017 00:11:05 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_browsercache&w3tc_message=58a8e25a48a84] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:11:32 +0000] [/wp-admin/admin.php?page=w3tc_pgcache] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_browsercache&w3tc_message=58a8e25a48a84] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:11:33 +0000] [/w3tc_rewrite_test147759114] [http://bhol.com.br/w3tc_rewrite_test147759114] start, can_cache: false
+[Sun, 19 Feb 2017 00:12:08 +0000] [/wp-admin/admin.php?page=w3tc_general] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_pgcache] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:12:10 +0000] [/w3tc_rewrite_test266743074] [http://bhol.com.br/w3tc_rewrite_test266743074] start, can_cache: false
+[Sun, 19 Feb 2017 00:12:19 +0000] [/wp-admin/admin.php?page=w3tc_general] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:12:20 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:12:21 +0000] [/w3tc_rewrite_test2118499898] [http://bhol.com.br/w3tc_rewrite_test2118499898] start, can_cache: false
+[Sun, 19 Feb 2017 00:13:23 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:14:23 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:15:23 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:15:49 +0000] [/] [-] start, can_cache: true
+[Sun, 19 Feb 2017 00:15:49 +0000] [/] [-] start, can_cache: true
+[Sun, 19 Feb 2017 00:15:50 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463349393] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:15:50 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463349426] [http://bhol.com.br/] start, can_cache: false
+[Sun, 19 Feb 2017 00:15:50 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463349393] [http://bhol.com.br/] storing cached page: false original false reason Requested URI contains query
+[Sun, 19 Feb 2017 00:15:51 +0000] [/?_wpcf7_is_ajax_call=1&_wpcf7=105&_wpcf7_request_ver=1487463349426] [http://bhol.com.br/] storing cached page: false original false reason Requested URI contains query
+[Sun, 19 Feb 2017 00:16:23 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:17:28 +0000] [/wp-admin/admin-ajax.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:17:32 +0000] [/wp-admin/plugins.php] [http://bhol.com.br/wp-admin/admin.php?page=w3tc_general&w3tc_note=preview_enable] skip processing because of generic constant
+[Sun, 19 Feb 2017 00:17:34 +0000] [/w3tc_rewrite_test1577048840] [http://bhol.com.br/w3tc_rewrite_test1577048840] start, can_cache: false
+[Sun, 19 Feb 2017 00:17:39 +0000] [/wp-admin/plugins.php?action=deactivate&plugin=w3-total-cache%2Fw3-total-cache.php&plugin_status=all&paged=1&s&_wpnonce=d6b9d8f742] [http://bhol.com.br/wp-admin/plugins.php] skip processing because of generic constant
