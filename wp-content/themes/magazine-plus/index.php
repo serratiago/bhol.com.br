@@ -10,7 +10,7 @@
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
  * @package Magazine_Plus
- * Teste
+ *
  */
 
 get_header(); ?>
